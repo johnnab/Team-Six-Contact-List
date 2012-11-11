@@ -6,7 +6,7 @@ public class Main {
 		
 		
 		System.out.println("This edit was made by Tony.");
-		
+		System.out.println("This edit was made by Johnna."); //by Johnna
 		
 		
 	}
